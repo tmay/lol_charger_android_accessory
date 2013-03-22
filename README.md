@@ -8,7 +8,7 @@ The lolcharger is a combination of:
 
 These kits were put together to build a simple accessory that I could use in a presentation.
 The lolcharger connects to your Anroid device and provides enough current to charge the battery,
-but also hosts a lolshield ( lots of leds ) to display strings sent from the phone.  The Batteries
+but also hosts a lolshield ( lots of leds ) to display strings sent from the phone.  The Battery's
 charge percentage is also updated whenever the value changes.
 
 This is all a work in progress.
